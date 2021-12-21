@@ -11,8 +11,13 @@ https://www.inouisamples.com/
 
 ![Image](https://raw.githubusercontent.com/nmalleus/ksp/master/resources/inoui%20KSP%20example.png)
 
-## Known Issues
+## Installation
 
+Copy this folder to:  
+* Win: C:\Users\username\.vscode\extensions  
+* Mac: /Users/username/.vscode/extensions  
+  
+## Known Issues
 
 ## Release Notes
 
