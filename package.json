@@ -1,0 +1,32 @@
+{
+    "name": "inoui-samples",
+    "displayName": "inouï samples colors",
+    "description": "inouï samples theme for the ksp - Kontakt Script Processor syntax",
+    "version": "1.0.0",
+    "icon": "resources/Dark_inoui Square.png",
+    "license": "MIT",
+    "keywords": ["inoui samples","ksp","kontakt","native instruments"],
+    "publisher": "nmalleus-inouisamples",
+    "homepage": "https://www.inouisamples.com",
+    "private":"false",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nmalleus/inoui_samples_colors"
+    },
+    "bugs": {
+		"url": "https://github.com/nmalleus/inoui_samples_colors/issues"
+	},
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": ["Themes"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "inoui",
+                "uiTheme": "vs-dark",
+                "path": "./themes/inoui-color-theme.json"
+            }
+        ]
+    }
+}
