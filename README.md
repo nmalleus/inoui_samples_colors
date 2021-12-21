@@ -1,6 +1,6 @@
 # inouï samples colors README
 
-This theme extension is an edited version of the VS Code Dark Theme that only concern syntax hilighting: it make hilighting more efficient for ksp - Kontakt Script Processor - coding.  
+This theme extension is an edited version of the VS Code Dark Theme that only concern syntax hilighting: it makes hilighting more efficient for ksp - Kontakt Script Processor - coding.  
     
 You can also install the ksp syntax highlighting extension following this link:  
 https://marketplace.visualstudio.com/items?itemName=nmalleus-inouisamples.kspsyntax  
