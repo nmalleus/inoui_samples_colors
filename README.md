@@ -14,8 +14,8 @@ https://www.inouisamples.com/
 ## Installation
 
 Copy this folder to:  
-* Win: C:\Users\username\\.vscode\extensions  
-* Mac: /Users/username/.vscode/extensions  
+__Win__: `C:\Users\username\.vscode\extensions`  
+__Mac__: `/Users/username/.vscode/extensions`  
   
 ## Known Issues
 
