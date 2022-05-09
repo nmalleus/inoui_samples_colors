@@ -20,6 +20,7 @@ __Mac__: `/Users/username/.vscode/extensions`
 In VS Code :
  - go to File / Preferences / Color Theme
  - or do Ctrl + K then Ctrl + T  
+
 Then select "inoui" in the dark themes list
 
 ## Known Issues
