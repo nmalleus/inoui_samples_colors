@@ -16,7 +16,11 @@ https://www.inouisamples.com/
 Copy this folder to:  
 __Win__: `C:\Users\username\.vscode\extensions`  
 __Mac__: `/Users/username/.vscode/extensions`  
-  
+In VS Code :
+ - go to File / Preferences / Color Theme
+ - or do Ctrl + K then Ctrl + T
+Then select "inoui" in the dark themes list
+
 ## Known Issues
 
 ## Release Notes
